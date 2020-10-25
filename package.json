@@ -1,0 +1,19 @@
+{
+  "name": "anthrofolio",
+  "version": "0.1.0",
+  "description": "Photos of life in rural Moldova",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acojocari/anthrofolio.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/acojocari/anthrofolio/issues"
+  },
+  "homepage": "https://github.com/acojocari/anthrofolio#readme"
+}
